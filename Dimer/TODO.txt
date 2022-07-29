@@ -1,0 +1,15 @@
+- For 3 particle try changing the angle of one and plot
+- Maybe change some of the potential visualisations to have different potential functions
+
+- try fitting for 2 particles
+
+- explain degeneracy for 3 particles
+- explain cutoff for 3 particles
+
+- look at differences of ds/df
+
+- write up something about the calculation of the cutoff angle 
+
+- explore different potentials
+
+- dlvo possible
